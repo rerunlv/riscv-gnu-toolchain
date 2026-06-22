@@ -55,3 +55,6 @@
 	path = uclibc-ng
 	url = https://github.com/wbx-github/uclibc-ng.git
 	shallow = true
+[submodule "binutils-gdb"]
+	path = binutils-gdb
+	url = git@github.com:rerunlv/binutils-gdb.git

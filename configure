@@ -4423,7 +4423,7 @@ then :
   with_binutils_src=$with_binutils_src
 
 else $as_nop
-  with_binutils_src="\$(srcdir)/binutils"
+  with_binutils_src="\$(srcdir)/binutils-gdb"
 
 fi
 
